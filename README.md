@@ -1,4 +1,5 @@
 # Appliance Industry: Regression, Neural-Network and ARIMA Modelling
+**English | [中文](./README.zh.md)**
 
 Statistical modelling project for the **10th National College Student Statistical Modeling Competition (Shanghai Region, Second Prize)**. The project analyses the development level of China's home appliance industry using regression and neural-network models, and forecasts future trends with ARIMA.
 
